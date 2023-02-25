@@ -1,0 +1,8 @@
+C:\Luana-cursos\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe.config
+C:\Luana-cursos\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe
+C:\Luana-cursos\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.pdb
+C:\Luana-cursos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.AssemblyReference.cache
+C:\Luana-cursos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe
+C:\Luana-cursos\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.pdb
